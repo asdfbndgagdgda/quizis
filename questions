@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What key is this?",
+    "options": ["F", "U", "C", "A"],
+    "answer": "A"
+  },
+  {
+    "question": "What kind of key is this?",
+    "options": ["W", "Letter", "Plastic", "Double U"],
+    "answer": "Letter"
+  },
+  {
+    "question": "What do these keys combine to make?",
+    "options": [
+      "A letter key",
+      "E",
+      "Plastic combined",
+      "Nothing, this isn't real"
+    ],
+    "answer": "A letter key"
+  },
+ {
+    "question": "What key is this?",
+    "options": ["1", "!", "一", "I"],
+    "answer": "1"
+  },
+  {
+    "question": "What does this key do?",
+    "options": ["It enters", "It's not real", "Makes life easy", "It's a tetris block, it don't do shi"],
+    "answer": "It enters"
+  },
+  ]
