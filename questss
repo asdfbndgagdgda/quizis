@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What key is this?",
+    "options": ["F", "U", "C", "A"],
+    "images": "https://raw.githubusercontent.com/asdfbndgagdgda/quizis/refs/heads/main/thing1.jpeg",
+    "answer": "A"
+  },
+  {
+    "question": "What kind of key is this?",
+    "options": ["W", "Letter", "Plastic", "Double U"],
+    "images": "https://raw.githubusercontent.com/asdfbndgagdgda/quizis/refs/heads/main/thing2.jpeg",
+    "answer": "Letter"
+  },
+  {
+    "question": "What do these keys combine to make?",
+    "options": [
+      "A letter key",
+      "E",
+      "Plastic combined",
+      "Nothing, this isn't real"
+    ],
+    "images": "https://raw.githubusercontent.com/asdfbndgagdgda/quizis/refs/heads/main/thing3.jpeg",
+    "answer": "A letter key"
+  },
+  {
+    "question": "What key is this?",
+    "options": ["1", "!", "一", "I"],
+    "images": "https://raw.githubusercontent.com/asdfbndgagdgda/quizis/refs/heads/main/thing4.jpeg",
+    "answer": "1"
+  },
+  {
+    "question": "What does this key do?",
+    "options": ["It enters", "It's not real", "Makes life easy", "It's a tetris block, it don't do shi"],
+    "images": "https://raw.githubusercontent.com/asdfbndgagdgda/quizis/refs/heads/main/thing5.jpeg",
+    "answer": "It enters"
+  }
+  
+]
