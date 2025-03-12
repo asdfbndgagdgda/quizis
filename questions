@@ -18,15 +18,15 @@
       "Nothing, this isn't real"
     ],
     "answer": "A letter key"
-  },
- {
+    },
+   {
     "question": "What key is this?",
     "options": ["1", "!", "一", "I"],
     "answer": "1"
-  },
-  {
+    },
+    {
     "question": "What does this key do?",
     "options": ["It enters", "It's not real", "Makes life easy", "It's a tetris block, it don't do shi"],
     "answer": "It enters"
-  },
+    },
   ]
